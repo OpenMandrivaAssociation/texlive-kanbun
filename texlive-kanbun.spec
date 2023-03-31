@@ -1,6 +1,6 @@
 Name:		texlive-kanbun
 Version:	62026
-Release:	1
+Release:	2
 Summary:	Typeset kanbun-kundoku with support for kanbun annotation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kanbun
