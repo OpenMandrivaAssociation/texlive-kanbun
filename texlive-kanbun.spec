@@ -3,7 +3,7 @@ Version:	62026
 Release:	2
 Summary:	Typeset kanbun-kundoku with support for kanbun annotation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kanbun
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/kanbun
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kanbun.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kanbun.doc.r%{version}.tar.xz
